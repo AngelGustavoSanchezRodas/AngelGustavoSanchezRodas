@@ -1,16 +1,22 @@
-## Hi there 👋
+Que Rollo, aqui les dejo quien soy: 
 
-<!--
-**AngelGustavoSanchezRodas/AngelGustavoSanchezRodas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante y Dev FullStack.
+La IA no puede reemplazar a la misma persona que la controla.
+Experiencia laboral no me sobra pero la experiencia tecnica si.
 
-Here are some ideas to get you started:
+🌐 Socials:
+Facebook Instagram LinkedIn email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+JavaScript Java HTML5 CSS3 Python TypeScript Azure Firebase Google Cloud MySQL Postgres SQLite Bootstrap Flask Django JavaFX React GitHub Actions Git GitHub Docker
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
