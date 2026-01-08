@@ -1,7 +1,7 @@
 # ¡Hola! Soy Angel Gustavo Sánchez Rodas 👋
 
 ### 🚀 Estudiante y Dev FullStack
-> "La IA no puede reemplazar a la misma persona que la controla."
+> "La IA no reemplaza a los jr's reemplaza el tiempo muerto."
 
 Me considero un apasionado de la tecnología con una sólida base técnica. Aunque estoy construyendo mi trayectoria profesional, mi experiencia técnica respalda cada línea de código que escribo.
 
