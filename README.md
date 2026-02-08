@@ -9,10 +9,8 @@ Me considero un apasionado de la tecnología con una sólida base técnica. Aunq
 
 ### 🌐 Conéctate conmigo:
 <p align="left">
-<a href="https://www.linkedin.com/in/TU_USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AngelGustavo" height="30" width="40" /></a>
-<a href="https://fb.com/TU_USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AngelGustavo" height="30" width="40" /></a>
-<a href="https://instagram.com/TU_USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AngelGustavo" height="30" width="40" /></a>
-<a href="mailto:angelgustavos93@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+<a href="www.linkedin.com/in/angelgustavosanchezrodas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AngelGustavo" height="30" width="40" /></a>
+<a href="mailto:sangelgustavocom@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
 </p>
 
 ---
